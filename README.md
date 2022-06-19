@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eugenevas
-- 👀 I’m interested in iOS development
-- 🌱 I’m currently Java, Automation QA
+- 👀 I’m interested in Automation QA
+- 🌱 I’m currently learning Java, Automation QA
 - 💞️ I’m looking to collaborate on the study of new technologies for me
 - 📫 You can reach me by email: eugene.vas25@gmail.com
 
