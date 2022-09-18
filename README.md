@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eugenevas
+- 👋 Hi, I’m Evgeniy Vasilyev
 - 👀 I’m interested in iOS development
 - 🌱 I’m currently writing iOS app on Swift
 - 💞️ I’m looking to collaborate on the study of new technologies for me
