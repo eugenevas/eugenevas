@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Evgeniy Vasilyev
-- 👀 I’m interested in iOS development
+- 👀 I’m interested in iOS development, AI, ML
 - 🌱 I’m currently writing iOS apps on Swift
 - 🛠 iOS SDK, UIKit, MVC, MVVM, CocoaPods, GCD
 - 💞️ I’m looking to collaborate on the study of new technologies for me
