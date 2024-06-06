@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Evgeniy Vasilyev
 - 👀 I’m interested in automation testing, AI, ML
-- 🌱 I’m currently writing auto tests on JAVA
-- 🛠 TestNG, Selenium
+- 🌱 I’m currently writing auto tests on Java
+- 🛠 JUnit, TestNG, Selenium
 - 💞️ I’m looking to collaborate on the study of new technologies for me
 - 📫 You can reach me by email: eugene.vas25@gmail.com
 
