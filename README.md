@@ -38,12 +38,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <code><img src="images/logo/Jenkins.svg" width="40" height="40"  alt="eugenevas" title="Jenkins"></code>
-<code><img src="images/logo/Selenoid.svg" width="40" height="40"  alt="eugenevas" title="Selenoid"></code>
+<code><img src="images/logo/docker.png" width="40" height="40"  alt="eugenevas" title="Docker"></code>
 <code><img src="images/logo/Allure_new.png" width="40" height="40"  alt="eugenevas" title="Allure Report"></code>
-<code><img src="images/logo/Telegram.svg" width="40" height="40"  alt="eugenevas" title="Telegram Bot"></code>
 <code><img src="images/logo/Git.svg" width="40" height="40" alt="Git" title="Git"></code>
 <code><img src="images/logo/GitHub.svg" width="40" height="40"  alt="eugenevas" title="Github"></code>
-<code><img src="images/logo/Postman.svg" width="40" height="40" alt="eugenevas" title="Postman"></code> 
       
 <!--
 <code></code> 
