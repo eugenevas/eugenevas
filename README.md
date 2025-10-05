@@ -25,9 +25,9 @@ You can click the Preview link to take a look at your changes.
 ## :computer:  Languages and Tools:
 <code><img src="images/logo/python.svg" width="40" height="40"  alt="eugenevas" title="PyCharm"></code>
 <code><img src="images/logo/pycharm.png" width="40" height="40"  alt="eugenevas" title="PyCharm"></code>
-<code><img src="images/pytest.png" width="40" height="40"  alt="eugenevas" title="PyTest"></code>
-<code><img src="images/request.png" width="40" height="40"  alt="eugenevas" title="Request"></code>
-<code><img src="images/selene.png" width="40" height="40"  alt="eugenevas" title="Selenium"></code>
+<code><img src="images/logo/pytest.png" width="40" height="40"  alt="eugenevas" title="PyTest"></code>
+<code><img src="images/logo/request.png" width="40" height="40"  alt="eugenevas" title="Request"></code>
+<code><img src="images/logo/selene.png" width="40" height="40"  alt="eugenevas" title="Selenium"></code>
 
 
 <code><img src="images/logo/Java.svg" width="40" height="40"  alt="eugenevas" title="Java"></code>
