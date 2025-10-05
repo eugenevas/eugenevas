@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/eugene_vas" target="_blank">Evgeniy</a> :vulcan_salute: </h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/eugenevas" target="_blank">Evgeniy</a> :vulcan_salute: </h1>
 <br>QA engineer from Sterlitamak. 
 <br>Experience in web testing since 2023
 <br>Automation QA since 2025
@@ -53,31 +53,31 @@ You can click the Preview link to take a look at your changes.
 
 
 ## :computer:  Languages and Tools:
-<code><img src="images/logo/python.svg" width="40" height="40"  alt="eugene_vas" title="Python"></code>
-<code><img src="images/logo/pycharm.png" width="40" height="40"  alt="eugene_vas" title="PyCharm"></code>
-<code><img src="images/logo/pytest.png" width="40" height="40"  alt="eugene_vas" title="PyTest"></code>
-<code><img src="images/logo/selene.png" width="40" height="40"  alt="eugene_vas" title="Selene"></code>
-<code><img src="images/logo/request.png" width="40" height="40"  alt="eugene_vas" title="Request"></code>
+<code><img src="images/logo/python.svg" width="40" height="40"  alt="eugenevas" title="Python"></code>
+<code><img src="images/logo/pycharm.png" width="40" height="40"  alt="eugenevas" title="PyCharm"></code>
+<code><img src="images/logo/pytest.png" width="40" height="40"  alt="eugenevas" title="PyTest"></code>
+<code><img src="images/logo/selene.png" width="40" height="40"  alt="eugenevas" title="Selene"></code>
+<code><img src="images/logo/request.png" width="40" height="40"  alt="eugenevas" title="Request"></code>
 
-<code><img src="images/logo/Java.svg" width="40" height="40"  alt="eugene_vas" title="Java"></code>
-<code><img src="images/logo/Idea.svg" width="40" height="40"  alt="eugene_vas" title="IJ IDEA"></code>
-<code><img src="images/logo/Junit5.svg" width="40" height="40" alt="eugene_vas" title="JUnit 5"></code>
-<code><img src="images/logo/Selenide.svg" width="40" height="40" alt="eugene_vas" title="Selenide"></code>
-<code><img src="images/logo/Gradle.svg" width="40" height="40"  alt="eugene_vas" title="Gradle"></code>
-<code><img src="images/logo/RestAssured.svg" width="40" height="40"  alt="eugene_vas" title="Rest-Assured"></code>
+<code><img src="images/logo/Java.svg" width="40" height="40"  alt="eugenevas" title="Java"></code>
+<code><img src="images/logo/Idea.svg" width="40" height="40"  alt="eugenevas" title="IJ IDEA"></code>
+<code><img src="images/logo/Junit5.svg" width="40" height="40" alt="eugenevas" title="JUnit 5"></code>
+<code><img src="images/logo/Selenide.svg" width="40" height="40" alt="eugenevas" title="Selenide"></code>
+<code><img src="images/logo/Gradle.svg" width="40" height="40"  alt="eugenevas" title="Gradle"></code>
+<code><img src="images/logo/RestAssured.svg" width="40" height="40"  alt="eugenevas" title="Rest-Assured"></code>
 
-<code><img src="images/logo/VStudio.svg" width="40" height="40"  alt="eugene_vas" title="Visual Studio"></code>
-<code><img src="images/logo/NUnit_png.png" width="40" height="40"  alt="eugene_vas" title="NUnit"></code>
-<code><img src="images/logo/webdriver4.png" width="40" height="40"  alt="eugene_vas" title="Selenium WebDriver"></code>
+<code><img src="images/logo/VStudio.svg" width="40" height="40"  alt="eugenevas" title="Visual Studio"></code>
+<code><img src="images/logo/NUnit_png.png" width="40" height="40"  alt="eugenevas" title="NUnit"></code>
+<code><img src="images/logo/webdriver4.png" width="40" height="40"  alt="eugenevas" title="Selenium WebDriver"></code>
 
-<code><img src="images/logo/Jenkins.svg" width="40" height="40"  alt="eugene_vas" title="Jenkins"></code>
-<code><img src="images/logo/Selenoid.svg" width="40" height="40"  alt="eugene_vas" title="Selenoid"></code>
-<code><img src="images/logo/Allure_new.png" width="40" height="40"  alt="eugene_vas" title="Allure Report"></code>
-<code><img src="images/logo/Telegram.svg" width="40" height="40"  alt="eugene_vas" title="Telegram Bot"></code>
+<code><img src="images/logo/Jenkins.svg" width="40" height="40"  alt="eugenevas" title="Jenkins"></code>
+<code><img src="images/logo/Selenoid.svg" width="40" height="40"  alt="eugenevas" title="Selenoid"></code>
+<code><img src="images/logo/Allure_new.png" width="40" height="40"  alt="eugenevas" title="Allure Report"></code>
+<code><img src="images/logo/Telegram.svg" width="40" height="40"  alt="eugenevas" title="Telegram Bot"></code>
 <code><img src="images/logo/Git.svg" width="40" height="40" alt="Git" title="Git"></code>
-<code><img src="images/logo/GitHub.svg" width="40" height="40"  alt="eugene_vas" title="Github"></code>
-<code><img src="images/logo/redmine_png.png" width="40" height="40" alt="eugene_vas" title="Redmine"></code>
-<code><img src="images/logo/Postman.svg" width="40" height="40" alt="eugene_vas" title="Postman"></code> 
+<code><img src="images/logo/GitHub.svg" width="40" height="40"  alt="eugenevas" title="Github"></code>
+<code><img src="images/logo/redmine_png.png" width="40" height="40" alt="eugenevas" title="Redmine"></code>
+<code><img src="images/logo/Postman.svg" width="40" height="40" alt="eugenevas" title="Postman"></code> 
 <code><img src="images/logo/MicrosoftSqlServer.svg" width="40" height="40" alt="olgakos" title="Microsoft SQL Server"></code> 
 <code><img src="images/logo/browserstack.png" width="40" height="40"  alt="olgakos" title="BrowserStack"></code>
       
@@ -92,7 +92,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--  Contacts section -->
 ## :anchor: Contact me :) 
-<code><a href="https://t.me/eugene_vas"><img src="images/logo/Telegram.svg" width="40" height="40" title="My Telegram"></a></code>
+<code><a href="https://t.me/eugenevas"><img src="images/logo/Telegram.svg" width="40" height="40" title="My Telegram"></a></code>
 <code><a href="mailto:eugene.vas25@gmail.com" target="blank"><img src="images/logo/Gmail.svg" height="40" width="40" title="My Gmail"></a></code>
 <code><a href="https://www.linkedin.com/in/" target="blank"><img src="images/logo/linkedin.png" height="40" width="40" title="My Linkedin"></a></code> 
 
