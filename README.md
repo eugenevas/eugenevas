@@ -23,8 +23,8 @@ You can click the Preview link to take a look at your changes.
 
 
 ## :computer:  Languages and Tools:
-<code><img src="images/python.svg" width="40" height="40"  alt="eugenevas" title="PyCharm"></code>
-<code><img src="images/pycharm.png" width="40" height="40"  alt="eugenevas" title="PyCharm"></code>
+<code><img src="images/logo/python.svg" width="40" height="40"  alt="eugenevas" title="PyCharm"></code>
+<code><img src="images/logo/pycharm.png" width="40" height="40"  alt="eugenevas" title="PyCharm"></code>
 <code><img src="images/pytest.png" width="40" height="40"  alt="eugenevas" title="PyTest"></code>
 <code><img src="images/request.png" width="40" height="40"  alt="eugenevas" title="Request"></code>
 <code><img src="images/selene.png" width="40" height="40"  alt="eugenevas" title="Selenium"></code>
