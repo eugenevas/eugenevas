@@ -9,3 +9,7 @@
 eugenevas/eugenevas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+Languages and Tools
+<img width="200" height="200" alt="pycharm" src="https://github.com/user-attachments/assets/7e291ab6-ffd7-4a32-ab9c-ae31f23890a4" />
