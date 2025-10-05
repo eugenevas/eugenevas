@@ -23,18 +23,18 @@ You can click the Preview link to take a look at your changes.
 
 
 ## :computer:  Languages and Tools:
-<code><img src="images/logo/python.svg" width="40" height="40"  alt="eugenevas" title="PyCharm"></code>
-<code><img src="images/logo/pycharm.png" width="40" height="40"  alt="eugenevas" title="PyCharm"></code>
-<code><img src="images/logo/pytest.png" width="40" height="40"  alt="eugenevas" title="PyTest"></code>
-<code><img src="images/logo/request.png" width="40" height="40"  alt="eugenevas" title="Request"></code>
-<code><img src="images/logo/selenium.png" width="40" height="40"  alt="eugenevas" title="Selenium"></code>
+<code><img src="images/logo/python.svg" width="70" height="70"  alt="eugenevas" title="PyCharm"></code>
+<code><img src="images/logo/pycharm.png" width="70" height="70"  alt="eugenevas" title="PyCharm"></code>
+<code><img src="images/logo/pytest.png" width="70" height="70"  alt="eugenevas" title="PyTest"></code>
+<code><img src="images/logo/request.png" width="70" height="70"  alt="eugenevas" title="Request"></code>
+<code><img src="images/logo/selenium.png" width="70" height="70"  alt="eugenevas" title="Selenium"></code>
 
 
-<code><img src="images/logo/Java.svg" width="40" height="40"  alt="eugenevas" title="Java"></code>
-<code><img src="images/logo/Idea.svg" width="40" height="40"  alt="eugenevas" title="IJ IDEA"></code>
-<code><img src="images/logo/Junit5.svg" width="40" height="40" alt="eugenevas" title="JUnit 5"></code>
-<code><img src="images/logo/Gradle.svg" width="40" height="40"  alt="eugenevas" title="Gradle"></code>
-<code><img src="images/logo/RestAssured.svg" width="40" height="40"  alt="eugenevas" title="Rest-Assured"></code>
+<code><img src="images/logo/Java.svg" width="70" height="70"  alt="eugenevas" title="Java"></code>
+<code><img src="images/logo/Idea.svg" width="70" height="70"  alt="eugenevas" title="IJ IDEA"></code>
+<code><img src="images/logo/Junit5.svg" width="70" height="70" alt="eugenevas" title="JUnit 5"></code>
+<code><img src="images/logo/Gradle.svg" width="70" height="70"  alt="eugenevas" title="Gradle"></code>
+<code><img src="images/logo/RestAssured.svg" width="70" height="70"  alt="eugenevas" title="Rest-Assured"></code>
 
 
 <code><img src="images/logo/Jenkins.svg" width="40" height="40"  alt="eugenevas" title="Jenkins"></code>
