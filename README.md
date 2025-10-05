@@ -33,7 +33,6 @@ You can click the Preview link to take a look at your changes.
 <code><img src="images/logo/Java.svg" width="40" height="40"  alt="eugenevas" title="Java"></code>
 <code><img src="images/logo/Idea.svg" width="40" height="40"  alt="eugenevas" title="IJ IDEA"></code>
 <code><img src="images/logo/Junit5.svg" width="40" height="40" alt="eugenevas" title="JUnit 5"></code>
-<code><img src="images/logo/Selenide.svg" width="40" height="40" alt="eugenevas" title="Selenide"></code>
 <code><img src="images/logo/Gradle.svg" width="40" height="40"  alt="eugenevas" title="Gradle"></code>
 <code><img src="images/logo/RestAssured.svg" width="40" height="40"  alt="eugenevas" title="Rest-Assured"></code>
 
