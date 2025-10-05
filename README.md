@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <!--  Contacts section -->
-## :anchor: Contact me 
+## :telephone_receiver: Contact me 
 <code><a href="https://t.me/eugene_vas"><img src="images/logo/Telegram.svg" width="40" height="40" title="My Telegram"></a></code>
 <code><a href="mailto:eugene.vas25@gmail.com" target="blank"><img src="images/logo/Gmail.png" height="40" width="40" title="My Gmail"></a></code>
 <code><a href="https://www.linkedin.com/in/" target="blank"><img src="images/logo/LinkedIn.png" height="40" width="40" title="My Linkedin"></a></code> 
@@ -56,8 +56,8 @@ You can click the Preview link to take a look at your changes.
 <table valign="top"><tr>   
 <td>
 <b>Тестовые фреймворки:</b>
-<br>- Selenide (Python) (50%) 
-<br>- Selenium WebDriver (Java) (20%)
+<br>- Selenide (Python) 
+<br>- Selenium WebDriver (Java) 
 </td>   
 <td  valign="top">
 <b>Средства визуализации результатов тестирования: </b>
@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
 </td>    
 <td> 
 <b>Version Control: </b>
-<br>- Git + GitHub (80%) 
+<br>- Git + GitHub 
 </td>
 </tr><tr>
 <td>
@@ -79,19 +79,18 @@ You can click the Preview link to take a look at your changes.
        
 <td>
 <b>Системы багтрекинга:</b>
-<br>- Redmine
 <br>- Jira
 </td>  
 <td>
 <b>Удаленный запуск</b>
 <br>- Jenkins 
-<br>- BrowserStack
+<br>- Docker
 </td>
 </tr><tr>
 <td>
 <b>Сборщики проектов:</b>
-<br>- Gradle (80%)
-<br>- Maven (20%)
+<br>- Gradle
+<br>- Maven
 </td>  
 <td>
 <b>Databases:</b>
