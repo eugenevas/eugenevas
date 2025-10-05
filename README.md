@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## :computer:  Languages and Tools:
-<code><img src="images/logo/python.svg" width="70" height="70"  alt="eugenevas" title="PyCharm"></code>
+<code><img src="images/logo/python.svg" width="70" height="70"  alt="eugenevas" title="Python"></code>
 <code><img src="images/logo/pycharm.png" width="70" height="70"  alt="eugenevas" title="PyCharm"></code>
 <code><img src="images/logo/pytest.png" width="70" height="70"  alt="eugenevas" title="PyTest"></code>
 <code><img src="images/logo/request.png" width="70" height="70"  alt="eugenevas" title="Request"></code>
@@ -37,11 +37,11 @@ You can click the Preview link to take a look at your changes.
 <code><img src="images/logo/RestAssured.svg" width="70" height="70"  alt="eugenevas" title="Rest-Assured"></code>
 
 
-<code><img src="images/logo/Jenkins.svg" width="40" height="40"  alt="eugenevas" title="Jenkins"></code>
-<code><img src="images/logo/docker.png" width="40" height="40"  alt="eugenevas" title="Docker"></code>
-<code><img src="images/logo/Allure_new.png" width="40" height="40"  alt="eugenevas" title="Allure Report"></code>
-<code><img src="images/logo/Git.svg" width="40" height="40" alt="Git" title="Git"></code>
-<code><img src="images/logo/GitHub.svg" width="40" height="40"  alt="eugenevas" title="Github"></code>
+<code><img src="images/logo/Jenkins.svg" width="70" height="70"  alt="eugenevas" title="Jenkins"></code>
+<code><img src="images/logo/docker.png" width="70" height="70"  alt="eugenevas" title="Docker"></code>
+<code><img src="images/logo/Allure_new.png" width="70" height="70"  alt="eugenevas" title="Allure Report"></code>
+<code><img src="images/logo/Git.svg" width="70" height="70" alt="Git" title="Git"></code>
+<code><img src="images/logo/GitHub.svg" width="70" height="70"  alt="eugenevas" title="Github"></code>
       
 <!--
 <code></code> 
