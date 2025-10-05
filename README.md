@@ -55,8 +55,8 @@ You can click the Preview link to take a look at your changes.
 <!--  Contacts section -->
 ## :anchor: Contact me 
 <code><a href="https://t.me/eugene_vas"><img src="images/logo/Telegram.svg" width="40" height="40" title="My Telegram"></a></code>
-<code><a href="mailto:eugene.vas25@gmail.com" target="blank"><img src="images/logo/Gmail.svg" height="40" width="40" title="My Gmail"></a></code>
-<code><a href="https://www.linkedin.com/in/" target="blank"><img src="images/logo/linkedin.png" height="40" width="40" title="My Linkedin"></a></code> 
+<code><a href="mailto:eugene.vas25@gmail.com" target="blank"><img src="images/logo/Gmail.png" height="40" width="40" title="My Gmail"></a></code>
+<code><a href="https://www.linkedin.com/in/" target="blank"><img src="images/logo/LinkedIn.png" height="40" width="40" title="My Linkedin"></a></code> 
 
  <!--   
 <table valign="top"><tr>   
