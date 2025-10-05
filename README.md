@@ -153,6 +153,9 @@ You can click the Preview link to take a look at your changes.
 
 #### Python
 
+
+
+
 <!--
 [![Email](images/logo/GmailIcon.png)](mailto:qaxxx@gmail.com)
 <a href="https://t.me/xxx" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Olga Kos" height="50" width="50" /></a>
@@ -164,7 +167,13 @@ You can click the Preview link to take a look at your changes.
 --> 
 
 <!--  Widgets section -->
-![EugeneVas's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue) ![Eugene's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
+![EugeneVas's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue) 
+
+
+#### GitHub stats
+![Eugene's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
+
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenevas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
