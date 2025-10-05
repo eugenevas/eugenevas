@@ -17,17 +17,18 @@ You can click the Preview link to take a look at your changes.
 <br>Experience in web testing since 2023
 <br>Automation QA since 2025
 <br>Experience with frontend test automation frameworks like Selenium, Selene, Selenide, PyTest...
-<br>Experience with Java, Python. Base SQL knowledge.
+<br>Experience with Python, Java. Base SQL knowledge.
 
             
 
 
 ## :computer:  Languages and Tools:
-<code><img src="images/logo/python.svg" width="40" height="40"  alt="eugenevas" title="Python"></code>
+<code><img src="D:\IT\picsToGithub\pycharm.png" width="40" height="40"  alt="eugenevas" title="Python"></code>
 <code><img src="images/logo/pycharm.png" width="40" height="40"  alt="eugenevas" title="PyCharm"></code>
 <code><img src="images/logo/pytest.png" width="40" height="40"  alt="eugenevas" title="PyTest"></code>
-<code><img src="images/logo/selene.png" width="40" height="40"  alt="eugenevas" title="Selene"></code>
 <code><img src="images/logo/request.png" width="40" height="40"  alt="eugenevas" title="Request"></code>
+<code><img src="images/logo/selene.png" width="40" height="40"  alt="eugenevas" title="Selenium"></code>
+
 
 <code><img src="images/logo/Java.svg" width="40" height="40"  alt="eugenevas" title="Java"></code>
 <code><img src="images/logo/Idea.svg" width="40" height="40"  alt="eugenevas" title="IJ IDEA"></code>
@@ -61,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <!--  Contacts section -->
-## :anchor: Contact me :) 
+## :anchor: Contact me 
 <code><a href="https://t.me/eugenevas"><img src="images/logo/Telegram.svg" width="40" height="40" title="My Telegram"></a></code>
 <code><a href="mailto:eugene.vas25@gmail.com" target="blank"><img src="images/logo/Gmail.svg" height="40" width="40" title="My Gmail"></a></code>
 <code><a href="https://www.linkedin.com/in/" target="blank"><img src="images/logo/linkedin.png" height="40" width="40" title="My Linkedin"></a></code> 
@@ -119,9 +120,9 @@ You can click the Preview link to take a look at your changes.
 </tr></table>
 -->
 
-## :black_cat: Pet Projects:
 
-#### Python
+## :black_cat: Pet Projects:
+Simple project
 
 
 
@@ -149,4 +150,4 @@ You can click the Preview link to take a look at your changes.
 -->
        
 ------------------
-UPD 2025-10-05
+
