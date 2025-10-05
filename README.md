@@ -19,37 +19,7 @@ You can click the Preview link to take a look at your changes.
 <br>Experience with frontend test automation frameworks like Selenium, Selene, Selenide, PyTest...
 <br>Experience with Java, Python. Base SQL knowledge.
 
-<details>
-    <summary><i>Details...</i></summary>
-<!-- Additional Work Line section -->
-<!-- <summary>My Work Line</summary> -->  
-    
-```mermaid
-  gantt 
-    title In IT since 2018. Work experience (A Gantt chart was updated on 2023-08-01):
-    dateFormat  YYYY-MM
-    section OlgaKos
-    Junior QA         :done, 2018-12, 90d
-    Manual Tester	  :done, 2019-03, 2019-09
-    Manual QA         :after, 2019-09, 2021-10
-    QA automation engineer     :active, 2020-06, 2023-08
-```
-</details>
             
-    
-<!-- EDU section -->
-<!--
-## :four_leaf_clover: Образование, курсы
-<details><summary><i>List</i></summary> 
-    
-* qa.guru
-* software-testing.ru
-* Udemy    
-</details>
--->  
-
-
-
 
 
 ## :computer:  Languages and Tools:
