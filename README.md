@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 <code><img src="images/logo/pycharm.png" width="40" height="40"  alt="eugenevas" title="PyCharm"></code>
 <code><img src="images/logo/pytest.png" width="40" height="40"  alt="eugenevas" title="PyTest"></code>
 <code><img src="images/logo/request.png" width="40" height="40"  alt="eugenevas" title="Request"></code>
-<code><img src="images/logo/selene.png" width="40" height="40"  alt="eugenevas" title="Selenium"></code>
+<code><img src="images/logo/selenium.png" width="40" height="40"  alt="eugenevas" title="Selenium"></code>
 
 
 <code><img src="images/logo/Java.svg" width="40" height="40"  alt="eugenevas" title="Java"></code>
@@ -37,9 +37,6 @@ You can click the Preview link to take a look at your changes.
 <code><img src="images/logo/Gradle.svg" width="40" height="40"  alt="eugenevas" title="Gradle"></code>
 <code><img src="images/logo/RestAssured.svg" width="40" height="40"  alt="eugenevas" title="Rest-Assured"></code>
 
-<code><img src="images/logo/VStudio.svg" width="40" height="40"  alt="eugenevas" title="Visual Studio"></code>
-<code><img src="images/logo/NUnit_png.png" width="40" height="40"  alt="eugenevas" title="NUnit"></code>
-<code><img src="images/logo/webdriver4.png" width="40" height="40"  alt="eugenevas" title="Selenium WebDriver"></code>
 
 <code><img src="images/logo/Jenkins.svg" width="40" height="40"  alt="eugenevas" title="Jenkins"></code>
 <code><img src="images/logo/Selenoid.svg" width="40" height="40"  alt="eugenevas" title="Selenoid"></code>
@@ -47,10 +44,7 @@ You can click the Preview link to take a look at your changes.
 <code><img src="images/logo/Telegram.svg" width="40" height="40"  alt="eugenevas" title="Telegram Bot"></code>
 <code><img src="images/logo/Git.svg" width="40" height="40" alt="Git" title="Git"></code>
 <code><img src="images/logo/GitHub.svg" width="40" height="40"  alt="eugenevas" title="Github"></code>
-<code><img src="images/logo/redmine_png.png" width="40" height="40" alt="eugenevas" title="Redmine"></code>
 <code><img src="images/logo/Postman.svg" width="40" height="40" alt="eugenevas" title="Postman"></code> 
-<code><img src="images/logo/MicrosoftSqlServer.svg" width="40" height="40" alt="olgakos" title="Microsoft SQL Server"></code> 
-<code><img src="images/logo/browserstack.png" width="40" height="40"  alt="olgakos" title="BrowserStack"></code>
       
 <!--
 <code></code> 
